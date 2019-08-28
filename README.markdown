@@ -80,6 +80,11 @@ This can easily be improved via the `FastApi` features.
 have build a docker image and write some integrations tests to make sure 
 that all the components were able to communicate with each other.
 
+* Re-Finally, before sending the completed challenge I've just realised that
+I was supposed to put it on GitHub, so I only have an init commit,
+and the most recent one to edit this file. I'm sorry you can't have a full
+proper history of all the changes.
+
 
 ### Impressions
 
