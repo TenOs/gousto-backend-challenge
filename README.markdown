@@ -89,6 +89,6 @@ proper history of all the changes.
 ### Impressions
 
 I liked working on this challenge, I think it was nice to work on some recipes.
-However your missing some French recipes in it!!!
+However you're missing some French recipes in it!!!
 
 Anyway thank you for the fun ;)
